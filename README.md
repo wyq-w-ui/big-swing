@@ -1,2 +1,2 @@
-# big-swing
-大摆角可视化 streamlit项目
+# pendulum-simulation
+大摆角单摆SINDY方程识别仿真
